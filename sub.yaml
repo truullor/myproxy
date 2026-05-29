@@ -1,0 +1,8 @@
+proxies:
+  - name: "My SOCKS5 Proxy"
+    type: socks5
+    server: 184.174.48.12
+    port: 9496
+    username: user313862
+    password: v4b3q7
+    udp: true
